@@ -1,0 +1,13 @@
+The concept of method overloading can be explained with the following example
+as asked in the question where the method sum() is introduced in the program.
+
+The class Main is created with the main() method as default. 
+
+The new method Sum() is introduced with integer a and b like int a, int b in the round brackets.
+The output statement is typed in the curly brackets of the Sum() method . 
+
+Now the name of the new method "Sum()" is typed in the main method.
+The values of integer a and b are given in the round brackets of the Sum() in the main method.
+
+When executed the value of the integer in the main() method executed from the operation statement in 
+the Sum() method.
